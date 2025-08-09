@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zachlazyy
-- 👀 I’m interested in NLP
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on open source projects for beginners 
-- 📫 How to reach me ...
+- 👋 Hi, I’m Farukh Nizamani
+- 👀 I’m interested in Data Analysis
+- 🌱 I have been learning Power BI and SQL lately
+- 💞️ I’m looking to collaborate on open source projects 
+- 📫 How to reach me ......
 
 
 
