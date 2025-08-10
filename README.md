@@ -2,8 +2,6 @@
 - 👀 I’m interested in Data Analysis
 - 🌱 I have been learning Power BI and SQL lately
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 How to reach me ......
-
 
 
 <!---
